@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/onurgursoy/static/js/main.7fa90c6f.chunk.js",
+    "main.js.map": "/onurgursoy/static/js/main.7fa90c6f.chunk.js.map",
+    "runtime-main.js": "/onurgursoy/static/js/runtime-main.a9f75afe.js",
+    "runtime-main.js.map": "/onurgursoy/static/js/runtime-main.a9f75afe.js.map",
+    "static/js/2.9dce31ce.chunk.js": "/onurgursoy/static/js/2.9dce31ce.chunk.js",
+    "static/js/2.9dce31ce.chunk.js.map": "/onurgursoy/static/js/2.9dce31ce.chunk.js.map",
+    "index.html": "/onurgursoy/index.html",
+    "static/js/2.9dce31ce.chunk.js.LICENSE.txt": "/onurgursoy/static/js/2.9dce31ce.chunk.js.LICENSE.txt",
+    "static/media/1.4c3dbac9.jpg": "/onurgursoy/static/media/1.4c3dbac9.jpg",
+    "static/media/2.a716979b.jpg": "/onurgursoy/static/media/2.a716979b.jpg",
+    "static/media/3.51643e45.jpg": "/onurgursoy/static/media/3.51643e45.jpg",
+    "static/media/4.3a599d61.jpg": "/onurgursoy/static/media/4.3a599d61.jpg",
+    "static/media/space8bit.9b25f90f.jpg": "/onurgursoy/static/media/space8bit.9b25f90f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9f75afe.js",
+    "static/js/2.9dce31ce.chunk.js",
+    "static/js/main.7fa90c6f.chunk.js"
+  ]
+}
